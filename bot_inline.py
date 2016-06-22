@@ -59,7 +59,7 @@ def query_text(inline_query):
 @bot.message_handler(commands=['start'])
 def command_start(m):
     cid = m.chat.id
-    bot.send_message(cid, "Just write in any Telegram chat @filmratingbot nameofthefilm to get the search")
+    bot.send_message(cid, "Just write in any Telegram chat @filmratingbot nameofthefilm and you will get a search with films and series. Enjoy it!")
 
 
 @bot.message_handler(commands=['code'])
@@ -70,5 +70,4 @@ def command_code(m):
 
 bot.polling(none_stop=True)
 while True:
-    time.sleep(
-        300)  # Hacemos que duerma durante un periodo largo de tiempo para que la CPU no esté trabajando innecesáremente.
+    time.sleep(300)  # Hacemos que duerma durante un periodo largo de tiempo para que la CPU no esté trabajando innecesáremente.
