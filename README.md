@@ -1,4 +1,4 @@
-# Film rating bot
+# Film Rating Bot - @filmratingbot(http://t.me/filmratingbot)
 <p align="center">
 <img src ="http://i.imgur.com/nAQJpnc.png" />
 </p>
