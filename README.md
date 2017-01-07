@@ -1,6 +1,8 @@
 # Film rating bot
+<p align="center">
+<img src ="http://i.imgur.com/nAQJpnc.png" />
+</p>
 
-<div style="text-align:center"><img src ="http://i.imgur.com/nAQJpnc.png" /></div>
 Telegram bot using the Python API that gets films rating from IMDb and metacritic.
 Since it's a inline bot, it can be used in any telegram chat using:
 
