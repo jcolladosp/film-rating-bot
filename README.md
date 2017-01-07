@@ -1,6 +1,16 @@
-# film-rating-bot
+# Film rating bot
+
+<div style="text-align:center"><img src ="http://i.imgur.com/nAQJpnc.png" /></div>
 Telegram bot using the Python API that gets films rating from IMDb and metacritic.
-Since it's a inline bot, it can be used in any telegram chat using @filmratingbot name_of_the_film
-  * The inline version uses an API for the placeholder generator (https://placehold.it/)
-  
+Since it's a inline bot, it can be used in any telegram chat using:
+
+```
+@filmratingbot name_of_the_film
+```
+
 ![screenshot1](http://i.imgur.com/MCFdx09.png "Screenshot 1")
+### Used APIs
+
+  * The inline version uses a [Placehold.it](https://placehold.it/)
+  * Ratings and posters uses [OMDb](https://www.omdbapi.com/)
+
