@@ -12,7 +12,7 @@ Since it's a inline bot, it can be used in any telegram chat using:
 
 ![screenshot1](http://i.imgur.com/MCFdx09.png "Screenshot 1")
 ### Used APIs
-
+  * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
   * The inline version uses a [Placehold.it](https://placehold.it/)
   * Ratings and posters uses [OMDb](https://www.omdbapi.com/)
 
