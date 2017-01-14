@@ -3,7 +3,7 @@
 <img src ="http://i.imgur.com/nAQJpnc.png" />
 </p>
 
-Telegram bot using the Python API that gets films rating from IMDb and metacritic.
+Telegram bot using the [Telegram API for Python](https://github.com/eternnoir/pyTelegramBotAPI) that gets films rating from IMDb and metacritic.
 Since it's a inline bot, it can be used in any telegram chat using:
 
 ```
