@@ -54,7 +54,7 @@ def query_text(inline_query):
         
         bot.answer_inline_query(inline_query.id, show_list, cache_time=1)
     except Exception as e:
-        print("Exception")
+        print("Exception: ",str(e))
 
 
 @bot.message_handler(commands=['start'])
